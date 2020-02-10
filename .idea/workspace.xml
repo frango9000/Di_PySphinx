@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d971016e-9b8e-4425-b056-5c439af67132" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sphinx/googleStyleExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/conf.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/index2.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index2.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docs/modules.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pkg/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sphinx/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQd2RgtUDZUGHjYVVfXPqzZxXU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/docs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/docs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/source" />
+      <recent name="$PROJECT_DIR$/src/source" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d971016e-9b8e-4425-b056-5c439af67132" name="Default Changelist" comment="" />
+      <created>1580982044945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580982044945</updated>
+      <workItem from="1580982048352" duration="1456000" />
+      <workItem from="1581330788678" duration="4800000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1580982880985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580982880985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="118" width="1063" height="812" key="CommitChangelistDialog2" timestamp="1580982880788">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="0" y="118" width="1063" height="812" key="CommitChangelistDialog2/0.27.1920.996@0.27.1920.996" timestamp="1580982880788" />
+    <state x="100" y="125" width="1720" height="798" key="DiffContextDialog" timestamp="1581334927550">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="100" y="125" width="1720" height="798" key="DiffContextDialog/0.27.1920.996@0.27.1920.996" timestamp="1581334927550" />
+    <state x="108" y="260" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1580983672304">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="108" y="260" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.996@0.27.1920.996" timestamp="1580983672304" />
+    <state x="100" y="125" width="1720" height="798" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581334927551">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="100" y="125" width="1720" height="798" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.27.1920.996@0.27.1920.996" timestamp="1581334927551" />
+    <state x="164" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1581330791064">
+      <screen x="0" y="27" width="1920" height="996" />
+    </state>
+    <state x="164" y="352" key="com.intellij.ide.util.TipDialog/0.27.1920.996@0.27.1920.996" timestamp="1581330791064" />
+  </component>
+</project>
