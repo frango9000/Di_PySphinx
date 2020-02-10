@@ -84,6 +84,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/docs" />
@@ -143,10 +144,10 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="118" width="1063" height="812" key="CommitChangelistDialog2" timestamp="1581337681544">
+    <state x="0" y="118" width="1063" height="812" key="CommitChangelistDialog2" timestamp="1581338611536">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
-    <state x="0" y="118" width="1063" height="812" key="CommitChangelistDialog2/0.27.1920.996@0.27.1920.996" timestamp="1581337681544" />
+    <state x="0" y="118" width="1063" height="812" key="CommitChangelistDialog2/0.27.1920.996@0.27.1920.996" timestamp="1581338611536" />
     <state x="100" y="125" width="1720" height="798" key="DiffContextDialog" timestamp="1581334927550">
       <screen x="0" y="27" width="1920" height="996" />
     </state>
