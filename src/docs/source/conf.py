@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 # DI_PySphinx documentation build configuration file, created by
-# sphinx-quickstart on Mon Feb 10 11:55:38 2020.
+# sphinx-quickstart on Mon Feb 10 13:36:16 2020.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -17,10 +17,11 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
 
+sys.path.insert(0, os.path.abspath('../..'))
+sys.setrecursionlimit(1500)
 
 # -- General configuration ------------------------------------------------
 
@@ -31,14 +32,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.autodoc',
-              'sphinx.ext.doctest',
-              'sphinx.ext.intersphinx',
-              'sphinx.ext.todo',
-              'sphinx.ext.ifconfig',
-              'sphinx.ext.viewcode',
-              'sphinx.ext.inheritance_diagram',
-              'sphinx.ext.autosummary']
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -115,6 +109,7 @@ html_sidebars = {
     ]
 }
 
+
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
@@ -167,6 +162,3 @@ texinfo_documents = [
      author, 'DI_PySphinx', 'One line description of project.',
      'Miscellaneous'),
 ]
-
-# Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'https://docs.python.org/': None}
