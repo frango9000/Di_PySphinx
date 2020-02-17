@@ -1,0 +1,6 @@
+include LICENSE
+include *.txt *.int
+include *.py
+recursive-include docs sphinx *
+
+global-exclude *.pyc *.pyo *
